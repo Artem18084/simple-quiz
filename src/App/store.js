@@ -1,5 +1,9 @@
 import { configureStore } from "@reduxjs/toolkit";
-
+import counterReducer from "../futures/counter/counterSlice";
+import colorReducer from "../futures/color/colorSlice";
 export const store = configureStore({
-  reducer: {},
+  reducer: {
+    counter: counterReducer,
+    color: colorReducer,
+  },
 });
