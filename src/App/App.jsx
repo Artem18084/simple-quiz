@@ -1,7 +1,7 @@
 function App() {
   return (
-    <div>
-    dsdfsdfkmmm
+    <div className="h-screen flex items-center justify-center">
+      <div className="w-[350px] h-[450px] bg-zinc-500"></div>
     </div>
   );
 }
