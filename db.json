@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "Хто є автором Книги Римлян?",
+      "options": [
+        { "id": 0, "text": "Мойсей", "isCorrect": false },
+        { "id": 1, "text": "Павло", "isCorrect": true },
+        { "id": 2, "text": "Ісая", "isCorrect": false },
+        { "id": 3, "text": "Євангеліст Іван", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Якщо Бог з нами, хто проти нас? (Римляни 8:31)",
+      "options": [
+        { "id": 0, "text": "Ніхто", "isCorrect": true },
+        { "id": 1, "text": "Сатана", "isCorrect": false },
+        { "id": 2, "text": "Ми самі", "isCorrect": false },
+        { "id": 3, "text": "Місцевий ворог", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Як закінчується вірш Римлян 12:2? '...але відновіться новим розумом, щоб ви...'",
+      "options": [
+        { "id": 0, "text": "Тримались за закон", "isCorrect": false },
+        { "id": 1, "text": "Були схожі на світ", "isCorrect": false },
+        { "id": 2, "text": "Випробовували Божу волю", "isCorrect": true },
+        { "id": 3, "text": "Не допускали спокус", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Що не зможе нас розділити від любові Христової? (Римляни 8:35)",
+      "options": [
+        { "id": 0, "text": "Страх", "isCorrect": false },
+        { "id": 1, "text": "Труднощі", "isCorrect": false },
+        { "id": 2, "text": "Ангели", "isCorrect": false },
+        { "id": 3, "text": "Блага, та голод, та безпека", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Що перш ніж Ісава, син Ісава, сказав Яківові? (Римляни 9:13)",
+      "options": [
+        { "id": 0, "text": "Мене не цікав", "isCorrect": false },
+        { "id": 1, "text": "Тобі повезло", "isCorrect": false },
+        { "id": 2, "text": "Мене любить Бог", "isCorrect": true },
+        { "id": 3, "text": "Ти сильний", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Яке поручення Ісуса зустрічаємо в Римлянам 12:9? ",
+      "options": [
+        { "id": 0, "text": "Не забудь про суботу", "isCorrect": false },
+        { "id": 1, "text": "Любіть одне одного", "isCorrect": true },
+        { "id": 2, "text": "Не крадіж", "isCorrect": false },
+        { "id": 3, "text": "Не вбивай", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Що є основою віри для апостола Павла? (Римляни 10:17)",
+      "options": [
+        { "id": 0, "text": "Молитва", "isCorrect": false },
+        { "id": 1, "text": "Швидке читання Біблії", "isCorrect": false },
+        { "id": 2, "text": "Слово Боже", "isCorrect": true },
+        { "id": 3, "text": "Власні дослідження", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Яким чином Ісав зраджує своє право на старшинства? (Римляни 9:13)",
+      "options": [
+        { "id": 0, "text": "Продає своє право", "isCorrect": false },
+        { "id": 1, "text": "Відмовляється від нього", "isCorrect": false },
+        { "id": 2, "text": "Проклинає його", "isCorrect": false },
+        { "id": 3, "text": "Продає його за горшок часнику", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Як називає Павло непокорених Ісаакових? (Римляни 9:14)",
+      "options": [
+        { "id": 0, "text": "Вибранці", "isCorrect": false },
+        { "id": 1, "text": "Люди віри", "isCorrect": false },
+        { "id": 2, "text": "Діти обіцяння", "isCorrect": false },
+        { "id": 3, "text": "Семя Авраамове", "isCorrect": true }
+      ]
+    }
+  ]
+}

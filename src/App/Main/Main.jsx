@@ -7,9 +7,6 @@ import { getStart, getResult } from "../../futures/result/resultSlice";
 export default function Main() {
   const getStartQuiz = useSelector((state) => state.result.result);
   const dispatch = useDispatch();
-  console.log("====================================");
-  console.log(getStartQuiz);
-  console.log("====================================");
   return (
     <div className="bg-gray-500">
       <h1 onClick={() => dispatch(getStart())}>Біблійна Вікторина</h1>
