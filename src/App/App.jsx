@@ -3,7 +3,7 @@ import Sidebar from "./Sidebar/Sidebar";
 
 function App() {
   return (
-    <div className="h-screen flex items-center justify-between">
+    <div className="h-screen  w-screen flex items-center ">
       <Sidebar />
       <Main />
     </div>

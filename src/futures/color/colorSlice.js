@@ -9,10 +9,10 @@ export const colorSlice = createSlice({
   initialState,
   reducers: {
     green: (state) => {
-      state = true;
+      state.color = true;
     },
     red: (state) => {
-      state = false;
+      state.color = false;
     },
   },
 });

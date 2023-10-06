@@ -3,7 +3,7 @@ import Book from "./Book/Book";
 
 export default function Sidebar() {
   return (
-    <div>
+    <div className="">
       <Book />
       <Book />
       <Book />
