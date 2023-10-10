@@ -2,12 +2,13 @@ import React from "react";
 import AnswerItem from "./AnswerItem/AnswerItem";
 
 export default function QuestionOptions() {
+
   return (
     <ul>
-      <AnswerItem />
-      <AnswerItem />
-      <AnswerItem />
-      <AnswerItem />
+      <AnswerItem answer="Тварини" />
+      <AnswerItem answer ="Біблія"/>
+      <AnswerItem answer="Будівництво" />
+      <AnswerItem answer="Програмування"/>
     </ul>
   );
 }
